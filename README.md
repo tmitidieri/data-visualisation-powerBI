@@ -6,17 +6,17 @@ The training is structured with theoretical lessons and hands-on assignments. Th
 Generation is a charity organisation that prepares and support people into life-changing careers that would otherwise be inaccessible. They have a methodology applied during 12 weeks of technical, behavioral, mindset & professional presence skill training, with social support services provided.
 
 
-**PROJECT OVERVIEWw**
+## Project Overview
 Olist Store is the largest department store in Brazilian marketplaces. Olist connects small businesses from all over Brazil to channels without the hassle and with a single contract. The Brazilian eCommerce public dataset of orders (from 2016 to 2018) made at Olist Store has been provided to your company for analysis.
 My team was asked to analyse the provided dataset using my data analytics skills, prepare a PowerBI dashboard with visualisations that answer critical questions and prepare and present a final report.
 
-**GOALS**
+## Goals
 1. Visualise a company’s customer demographics, sales trends, orders by categories, orders changes by year, etc.
 2. Utilise created visualisations to provide recommendations for improvements
 3. Create a final report.
 4. Deliver a group presentation, clearly communicating analytical results
 
-**DATA COLLECTION**
+## Data Collection
 Olist, the largest department store in Brazilian marketplaces, generously provided this dataset. After a customer purchases the product from Olist Store, a seller is notified to fulfil that order. Once the customer receives the product or the estimated delivery date is due, the customer gets a satisfaction survey by email where he can give a note about the purchase experience and write down some comments.
 
 ![dataset_schema](https://user-images.githubusercontent.com/28830439/227207713-775af3ee-1754-4b48-9435-9fddabb9a7c7.png)
